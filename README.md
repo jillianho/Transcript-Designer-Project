@@ -1,5 +1,5 @@
 
-# UCB_BioE134_GeneDesign
+# UCB_BioE134_GeneDesign : Jillian Ho, improved TranscriptDesigner version
 
 This repository provides a suite of tools for designing genetic constructs, including operons, transcripts, and ribosome binding sites (RBS) for synthetic biology applications.
 
