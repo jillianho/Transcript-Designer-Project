@@ -7,7 +7,7 @@ This repository provides a suite of tools for designing genetic constructs, incl
 The repository contains the following main directories and files:
 
 ```
-UCB_BioE134_GeneDesign/
+GeneDesign/
 │
 ├── genedesign/
 │   ├── operon_to_seq.py
